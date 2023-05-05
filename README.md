@@ -11,7 +11,7 @@ On Demand deployment with Azure App Service
 ```
 First, we open our nodejs Code with VS Code and run the ‘NPM INSTALL’, this command we install the all dependencies of Nodejs code Project.
 ```
-<img title="a title" alt="Alt text" src="https://github.com/rishabhthakur1809/Testing/tree/main/ScreenShots/1st.png">
+<img title="a title" alt="Alt text" src="/ScreenShots/1st.png">
 
 ```
 We Need an Azure Extension for establish connection of Azure Account with VS Code, So Click on left side Extension button of VS Code and Search Azure Tools then install it.
